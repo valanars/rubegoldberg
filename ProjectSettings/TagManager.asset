@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Domino
   - Seesaw
+  - End
   layers:
   - Default
   - TransparentFX
